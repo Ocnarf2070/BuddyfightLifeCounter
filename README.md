@@ -1,4 +1,4 @@
-This is a small project which it is implemented a life counter for the car game Buddyfight.
+This is a small project which it is implemented a life counter for the card game Buddyfight.
 
 At this moment, it is implemented:
 * Life tracker
